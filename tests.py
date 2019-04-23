@@ -51,9 +51,9 @@ class SmartVoteAPITestCase(TestCase):
         response = self.client.get_constituency_statistics(constituency_id=18800000022)
         self._pretty_print(response)
 
-    def test_get_parties(self):
-        response = self.client.get_parties(root_parties=True)
-        self._pretty_print(response)
+    # def test_get_parties(self):
+    #     response = self.client.get_parties(root_parties=True)
+    #     self._pretty_print(response)
 
     def test_get_parties_by_constituency(self):
         response = self.client.get_parties(root_parties=False, constituency_id=18800000004)
@@ -63,9 +63,9 @@ class SmartVoteAPITestCase(TestCase):
         response = self.client.get_party(party_id=18800001494)
         self._pretty_print(response)
 
-    def test_get_lists(self):
-        response = self.client.get_lists()
-        self._pretty_print(response)
+    # def test_get_lists(self):
+    #     response = self.client.get_lists()
+    #     self._pretty_print(response)
 
     def test_get_lists_by_constituency(self):
         response = self.client.get_lists(constituency_id=18800000004)
