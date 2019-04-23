@@ -3,8 +3,8 @@
 3,Elections to the Council of States 2011,2011-10-23,https://www.smartvote.ch/11_ch_sr/election/index
 4,Grossratswahlen Kanton Freiburg,2011-11-13,https://www.smartvote.ch/11_fr_leg/election/index
 5,Staatsratswahlen Kanton Freiburg,2011-11-13,https://www.smartvote.ch/11_fr_exe/election/index
-6,Ständeratswahlen, 2. Wahlgang,2011-12-04,https://www.smartvote.ch/11_ch_sr2/election/index
-7,Staatsratswahlen Kanton Freiburg, 2. Wahlgang,2011-12-04,https://www.smartvote.ch/11_fr_exe_2/election/index
+6,Ständeratswahlen 2. Wahlgang,2011-12-04,https://www.smartvote.ch/11_ch_sr2/election/index
+7,Staatsratswahlen Kanton Freiburg 2. Wahlgang,2011-12-04,https://www.smartvote.ch/11_fr_exe_2/election/index
 8,Kantonsratswahlen Kanton St. Gallen,2012-03-11,https://www.smartvote.ch/12_sg_leg/election/index
 10,Regierungswahlen Kanton St. Gallen,2012-03-11,https://www.smartvote.ch/12_sg_exe/election/index
 11,Election du Grand Conseil vaudois,2012-03-11,https://www.smartvote.ch/12_vd_leg/election/index
@@ -14,9 +14,9 @@
 15,Grossratswahlen Kanton Thurgau,2012-04-15,https://www.smartvote.ch/12_tg_leg/election/index
 16,Wahlen des Grossen Stadtrates der Stadt Luzern,2012-05-06,https://www.smartvote.ch/12_stlu_leg/election/index
 17,Wahlen des Stadtrats der Stadt Luzern,2012-05-06,https://www.smartvote.ch/12_stlu_exe/election/index
-20,Regierungsratswahlen Kanton Uri, 2. Wahlgang,2012-04-15,https://www.smartvote.ch/12_ur_exe_2/election/index
-21,Regierungswahlen Kanton St. Gallen, 2. Wahlgang,2012-04-29,https://www.smartvote.ch/12_sg_exe_2/election/index
-22,Wahlen des Stadtrats der Stadt Luzern, 2. Wahlgang,2012-06-17,https://www.smartvote.ch/12_stlu_exe_2/election/index
+20,Regierungsratswahlen Kanton Uri 2. Wahlgang,2012-04-15,https://www.smartvote.ch/12_ur_exe_2/election/index
+21,Regierungswahlen Kanton St. Gallen 2. Wahlgang,2012-04-29,https://www.smartvote.ch/12_sg_exe_2/election/index
+22,Wahlen des Stadtrats der Stadt Luzern 2. Wahlgang,2012-06-17,https://www.smartvote.ch/12_stlu_exe_2/election/index
 24,Stadtparlamentswahlen Gossau,2012-09-23,https://www.smartvote.ch/12_st_gossau/election/index
 25,Stadtratswahlen Gossau,2012-09-23,https://www.smartvote.ch/12_st_gossau_exe/election/index
 26,Grossratswahlen Kanton Aargau,2012-10-21,https://www.smartvote.ch/12_ag_leg/election/index
@@ -30,12 +30,12 @@
 37,Regierungsratswahlen Basel-Stadt,2012-10-28,https://www.smartvote.ch/12_bs_exe/election/index
 38,Stadtratswahlen Bern,2012-11-25,https://www.smartvote.ch/12_st_be_leg/election/index
 39,Gemeinderatswahlen Bern,2012-11-25,https://www.smartvote.ch/12_st_be_exe/election/index
-40,Stadtpräsidiumswahlen Wil, 2. Wahlgang,2012-11-04,https://www.smartvote.ch/12_st_wil_praes_2/election/index
-42,Stadtratswahlen Wil, 2. Wahlgang,2012-11-04,https://www.smartvote.ch/12_st_wil_exe_2/election/index
-43,Stadtratswahlen St. Gallen, 2. Wahlgang,2012-11-25,https://www.smartvote.ch/12_st_sg_exe_2/election/index
+40,Stadtpräsidiumswahlen Wil 2. Wahlgang,2012-11-04,https://www.smartvote.ch/12_st_wil_praes_2/election/index
+42,Stadtratswahlen Wil 2. Wahlgang,2012-11-04,https://www.smartvote.ch/12_st_wil_exe_2/election/index
+43,Stadtratswahlen St. Gallen 2. Wahlgang,2012-11-25,https://www.smartvote.ch/12_st_sg_exe_2/election/index
 44,Kantonsratswahlen Kanton Solothurn,2013-03-03,https://www.smartvote.ch/13_so_leg/election/index
 45,Regierungsratswahlen Kanton Solothurn,2013-03-03,https://www.smartvote.ch/13_so_exe/election/index
-46,Regierungsratswahlen Kanton Solothurn, 2. Wahlgang,2013-04-14,https://www.smartvote.ch/13_so_exe2/election/index
+46,Regierungsratswahlen Kanton Solothurn 2. Wahlgang,2013-04-14,https://www.smartvote.ch/13_so_exe2/election/index
 47,Einwohnerratswahlen Stadt Baden 2013,2013-09-22,https://www.smartvote.ch/13_st_baden_leg/election/index
 48,Stadtratswahlen Stadt Baden 2013,2013-09-22,https://www.smartvote.ch/13_st_baden_exe/election/index
 49,Gemeinderatswahlen Köniz 2013,2013-11-24,https://www.smartvote.ch/13_gem_koeniz_exe/election/index
@@ -77,8 +77,8 @@
 95,Elections to the National Council,2015-10-18,https://www.smartvote.ch/15_ch_nr/election/index
 96,Elections au Parlement jurassien,2015-10-18,https://www.smartvote.ch/15_ju_leg/election/index
 97,Elections au Gouvernement jurassien,2015-10-18,https://www.smartvote.ch/15_ju_exe/election/index
-98,Elections to the Council of States, 2nd ballot,2015-11-22,https://www.smartvote.ch/15_ch_sr2/election/index
-99,Elections au Gouvernement jurassien, 2e tour,2015-11-08,https://www.smartvote.ch/15_ju_exe2/election/index
+98,Elections to the Council of States 2.d ballot,2015-11-22,https://www.smartvote.ch/15_ch_sr2/election/index
+99,Elections au Gouvernement jurassien 2. tour,2015-11-08,https://www.smartvote.ch/15_ju_exe2/election/index
 100,Kantonsratswahlen St. Gallen,2016-02-28,https://www.smartvote.ch/16_sg_leg/election/index
 101,Regierungsratswahlen St. Gallen,2016-02-28,https://www.smartvote.ch/16_sg_exe/election/index
 102,Landratswahlen Uri,2016-02-28,https://www.smartvote.ch/16_ur_leg/election/index
@@ -87,9 +87,9 @@
 105,Grossratswahlen Thurgau,2016-04-10,https://www.smartvote.ch/16_tg_leg/election/index
 106,Stadtratswahlen Luzern,2016-05-01,https://www.smartvote.ch/16_st_luzern_exe/election/index
 107,Wahl des Grossen Stadtrats Luzern,2016-05-01,https://www.smartvote.ch/16_st_luzern_leg/election/index
-108,Regierungsratswahlen St. Gallen, 2. Wahlgang,2016-04-24,https://www.smartvote.ch/16_sg_exe2/election/index
-109,Regierungsratswahlen Uri, 2. Wahlgang,2016-04-10,https://www.smartvote.ch/16_ur_exe2/election/index
-110,Stadtratswahlen Luzern, 2. Wahlgang,2016-06-05,https://www.smartvote.ch/16_st_luzern_exe2/election/index
+108,Regierungsratswahlen St. Gallen 2. Wahlgang,2016-04-24,https://www.smartvote.ch/16_sg_exe2/election/index
+109,Regierungsratswahlen Uri 2. Wahlgang,2016-04-10,https://www.smartvote.ch/16_ur_exe2/election/index
+110,Stadtratswahlen Luzern 2. Wahlgang,2016-06-05,https://www.smartvote.ch/16_st_luzern_exe2/election/index
 111,Stadtparlamentswahlen Wil,2016-09-25,https://www.smartvote.ch/16_wil_leg/election/index
 112,Stadtratswahlen Wil,2016-09-25,https://www.smartvote.ch/16_wil_exe/election/index
 113,Stadtpräsidiumswahlen Wil,2016-09-25,https://www.smartvote.ch/16_wil_praes/election/index
@@ -109,12 +109,12 @@
 142,Gemeinderatswahlen Bern,2016-11-27,https://www.smartvote.ch/16_st_bern_exe/election/index
 143,Gemeinderatswahlen Worb,2016-11-27,https://www.smartvote.ch/16_worb_exe/election/index
 145,Stadtpräsidiumswahl Bern,2016-11-27,https://www.smartvote.ch/16_st_bern_praes/election/index
-146,Regierungsratswahlen Basel-Stadt, 2. Wahlgang,2016-11-27,https://www.smartvote.ch/16_bs_exe2/election/index
-147,Regierungsratswahlen Aargau, 2. Wahlgang,2016-11-27,https://www.smartvote.ch/16_ag_exe2/election/index
-148,Staatsratswahlen Freiburg, 2. Wahlgang,2016-11-27,https://www.smartvote.ch/16_fr_exe2/election/index
+146,Regierungsratswahlen Basel-Stadt 2. Wahlgang,2016-11-27,https://www.smartvote.ch/16_bs_exe2/election/index
+147,Regierungsratswahlen Aargau 2. Wahlgang,2016-11-27,https://www.smartvote.ch/16_ag_exe2/election/index
+148,Staatsratswahlen Freiburg 2. Wahlgang,2016-11-27,https://www.smartvote.ch/16_fr_exe2/election/index
 149,Landtagswahlen Liechtenstein,2017-02-05,https://www.smartvote.ch/17_fl_leg2/election/index
-150,Stadtpräsidiumswahl Bern, 2. Wahlgang,2017-01-15,https://www.smartvote.ch/16_s_bern_praes2/election/index
-153,Gemeindepräsidiumswahl Worb, 2. Wahlgang,2016-12-18,https://www.smartvote.ch/16_worb_praes/election/index
+150,Stadtpräsidiumswahl Bern 2. Wahlgang,2017-01-15,https://www.smartvote.ch/16_s_bern_praes2/election/index
+153,Gemeindepräsidiumswahl Worb 2. Wahlgang,2016-12-18,https://www.smartvote.ch/16_worb_praes/election/index
 154,Kantonsratswahlen Solothurn,2017-03-12,https://www.smartvote.ch/17_so_leg/election/index
 155,Regierungsratswahlen Solothurn,2017-03-12,https://www.smartvote.ch/17_so_exe/election/index
 156,Grossratswahlen Wallis,2017-03-05,https://www.smartvote.ch/17_vs_leg/election/index
@@ -122,9 +122,9 @@
 158,Staatsratswahlen Wallis,2017-03-05,https://www.smartvote.ch/17_vs_exe/election/index
 159,Elections au Grand Conseil neuchâtelois,2017-04-02,https://www.smartvote.ch/17_ne_leg/election/index
 160,Elections au Conseil d'Etat neuchâtelois,2017-04-02,https://www.smartvote.ch/17_ne_exe/election/index
-161,Staatsratswahlen Wallis, 2. Wahlgang,2017-03-19,https://www.smartvote.ch/17_vs_exe_2/election/index
+161,Staatsratswahlen Wallis 2. Wahlgang,2017-03-19,https://www.smartvote.ch/17_vs_exe_2/election/index
 162,Elections au Grand Conseil vaudois,2017-04-30,https://www.smartvote.ch/17_vd_leg/election/index
-163,Regierungsratswahlen Solothurn, 2. Wahlgang,2017-04-23,https://www.smartvote.ch/17_so_exe2/election/index
+163,Regierungsratswahlen Solothurn 2. Wahlgang,2017-04-23,https://www.smartvote.ch/17_so_exe2/election/index
 164,Wahlen HES-SO: Studierende,2017-06-08,https://www.smartvote.ch/17_hes_so_cc/election/index
 166,Wahlen HES-SO: Mittelbau,2017-06-08,https://www.smartvote.ch/17_hes_so_inter/election/index
 167,Wahlen HES-SO: Lehr- und Forschungskörper,2017-06-08,https://www.smartvote.ch/17_hes_so_en/election/index
@@ -135,8 +135,8 @@
 173,Gemeindeparlamentswahlen Köniz,2017-09-24,https://www.smartvote.ch/17_koeniz_leg/election/index
 174,Wahl des Gemeindepräsidiums Köniz,2017-09-24,https://www.smartvote.ch/17_koeniz_praes/election/index
 175,Einwohnerratswahlen Stadt Aarau,2017-11-26,https://www.smartvote.ch/17_aarau_leg/election/index
-176,Wahl des Gemeindepräsidiums Köniz, 2. Wahlgang,2017-10-22,https://www.smartvote.ch/17_koeniz_praes2/election/index
-177,Wahl des Stadtammanns Baden, 2. Wahlgang,2017-11-26,https://www.smartvote.ch/17_baden_praes/election/index
+176,Wahl des Gemeindepräsidiums Köniz 2. Wahlgang,2017-10-22,https://www.smartvote.ch/17_koeniz_praes2/election/index
+177,Wahl des Stadtammanns Baden 2. Wahlgang,2017-11-26,https://www.smartvote.ch/17_baden_praes/election/index
 178,Grossratswahlen Kanton Bern,2018-03-25,https://www.smartvote.ch/18_be_leg/election/index
 179,Wahlen Grosser Gemeinderat Winterthur,2018-03-04,https://www.smartvote.ch/18_winterthur_leg/election/index
 180,Stadtratswahlen Winterthur,2018-03-04,https://www.smartvote.ch/18_winterthur_exe/election/index
@@ -152,8 +152,8 @@
 190,Grossratswahlen (Kreiswahlen) Graubünden,2018-06-10,https://www.smartvote.ch/18_gr_leg/election/index
 191,Landratswahlen Kanton Glarus,2018-06-10,https://www.smartvote.ch/18_gl_leg/election/index
 192,Regierungsratswahlen Graubünden,2018-06-10,https://www.smartvote.ch/18_gr_exe/election/index
-193,Election du Conseil d'Etat genevois, second tour,2018-05-06,https://www.smartvote.ch/18_ge_exe2/election/index
-194,Stadtratswahlen Wetzikon, 2. Wahlgang,2018-06-10,https://www.smartvote.ch/18_wetzikon_exe2/election/index
+193,Election du Conseil d'Etat genevois second tour,2018-05-06,https://www.smartvote.ch/18_ge_exe2/election/index
+194,Stadtratswahlen Wetzikon 2. Wahlgang,2018-06-10,https://www.smartvote.ch/18_wetzikon_exe2/election/index
 195,Kantonsratswahlen Zug,2018-10-07,https://www.smartvote.ch/18_zg_leg/election/index
 196,Regierungsratswahlen Kanton Zug,2018-10-07,https://www.smartvote.ch/18_zg_exe/election/index
 197,Wahlen Grosser Gemeinderat Stadt Zug,2018-10-07,https://www.smartvote.ch/18_st_zug_leg/election/index
@@ -169,4 +169,4 @@
 207,Wahl zur Erstellung von spider-Grafiken,2019-03-31,https://www.smartvote.ch/test_nebs/election/index
 208,Elezioni al Gran Consiglio ticinese,2019-04-07,https://www.smartvote.ch/19_ti_leg/election/index
 209,Elezioni al Consiglio di Stato ticinese,2019-04-07,https://www.smartvote.ch/19_ti_exe/election/index
-210,Regierungsratswahlen Luzern, 2. Wahlgang,2019-05-19,https://www.smartvote.ch/19_lu_exe2/election/index
+210,Regierungsratswahlen Luzern 2. Wahlgang,2019-05-19,https://www.smartvote.ch/19_lu_exe2/election/index
