@@ -2,7 +2,7 @@
 
 # smartvote.ch API Python wrapper
 
-[smartvote.ch] is a Swiss voting advice application. In addition to helping hundreds of thousands of voters to find matching candidates, smartvote.ch provides an undocumented REST API (v2.0).
+[smartvote.ch](https://www.smartvote.ch/) is a Swiss voting advice application. In addition to helping hundreds of thousands of voters to find matching candidates, smartvote.ch provides an undocumented REST API (v2.0).
 
 ## Installation
 
