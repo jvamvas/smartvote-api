@@ -4,6 +4,8 @@
 
 [smartvote.ch](https://www.smartvote.ch/) is a Swiss voting advice application. In addition to helping hundreds of thousands of voters to find matching candidates, smartvote.ch provides an undocumented REST API (v2.0).
 
+> :warning: **Legacy API**: The code in this repo addresses a legacy version of Smartvote's API that only covers elections **between 2011 and early 2019**.
+
 ## Installation
 
 * Requirement: Python >= 3.6
@@ -43,6 +45,3 @@ More methods (questions, constituencies, parties, lists, candidates) can be foun
 
 ### How to get the election ID
 A table of election IDs can be found in elections.csv.
-
-For future elections that are not covered in the table, the ID can be looked up in the website source code like this:
-![image](docs/smartvote_election_id.png)
